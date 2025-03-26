@@ -1,4 +1,4 @@
 ## Links
 
-- [Live Demo](learning-shaders.vercel.app)
+- [Live Demo](https://learning-shaders.vercel.app)
 - [Book](https://thebookofshaders.com/)
